@@ -1,0 +1,13 @@
+D:\TNEU\Softserve\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.exe
+D:\TNEU\Softserve\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.deps.json
+D:\TNEU\Softserve\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.json
+D:\TNEU\Softserve\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.dev.json
+D:\TNEU\Softserve\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.dll
+D:\TNEU\Softserve\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.pdb
+D:\TNEU\Softserve\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.csproj.AssemblyReference.cache
+D:\TNEU\Softserve\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfoInputs.cache
+D:\TNEU\Softserve\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfo.cs
+D:\TNEU\Softserve\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.csproj.CoreCompileInputs.cache
+D:\TNEU\Softserve\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.dll
+D:\TNEU\Softserve\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.pdb
+D:\TNEU\Softserve\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.genruntimeconfig.cache
